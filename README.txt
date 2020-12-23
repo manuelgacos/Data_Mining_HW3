@@ -1,0 +1,1 @@
+'HW_3.Rmd' has the markdown for the pdf version. 'HW3_Fun.R' has the functions I wrote for the exercises and 'ex3.RData', 'ex5.RData' have most of the objects obtained while running the code for exercises 3 and 5. 
